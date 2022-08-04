@@ -1,0 +1,6 @@
+standard javascript objects
+
+var objectName={
+    key: value,
+    key: {key:value}
+}
